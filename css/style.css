@@ -1,0 +1,93 @@
+.Zoey {
+  background-color: ghostwhite;
+  max-height: 1000px;
+}
+
+.zoeyhome {
+
+}
+
+.Zoeyheader {
+  text-align: center;
+  margin-top: 100px;
+  font-size: 100px;
+  font-family: 'Bungee Shade', cursive;
+}
+
+.navbar-nav {
+  margin: auto;
+  text-transform: uppercase;
+}
+
+#navbarNav {
+  color: black;
+}
+
+.nav-link {
+  margin: 40px;
+}
+
+#navbarNav a {
+  margin-left: auto;
+  border-bottom: transparent solid 1px;
+  padding-bottom: 40px;
+  color: black;
+}
+
+#navbarNav a:hover {
+  border-bottom: black solid 1px;
+  color:
+}
+
+.ZoeyParralax {
+  background-image:url("../ZoeyStanding.jpg");
+  min-height: 1400px;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.watch-info {
+  color: black;
+}
+
+.BadTings {
+  margin-top: 10px;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 500px;
+}
+
+.container {
+  text-align: center;
+}
+
+.embed1, .embed2, .embed3, .embed4, .embed5, .embed6 {
+  position: relative;
+  left: 150px;
+}
+
+iframe {
+  align-self: center;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  margin-left: auto;
+  margin-right: auto;
+
+  -moz-border-radius: 12px;
+  -webkit-border-radius: 12px;
+  border-radius: 12px;
+
+  -moz-box-shadow: 4px 4px 14px #000;
+  -webkit-box-shadow: 4px 4px 14px #000;
+  box-shadow: 4px 4px 14px #000;
+}
+
+.wrapper {
+  height: 400px;
+}
+
+.postdelete {
+  padding-top: 100px;
+  max-width: 100%;
+}
